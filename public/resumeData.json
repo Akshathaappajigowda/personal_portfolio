@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Akshatha Appajigowda",
+    "occupation": "Full stack web developer",
+    "image": "Akshatha.jpg",
+    "bio": "",
+    "contactmessage": "Get in touch with me",
+    "email": "akshatha.appajigowda@gmail.com",
+    "phone": "+4917630799084",
+    "address": {
+      "street": "veielbrunnenweg 36",
+      "city": "Stuttgart",
+      "state": "Germany",
+      "zip": "70372"
+    },
+    "resumedownload": "/resume/Akshatha_CV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/akshatha.gowda.9277/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/akshatha-appajigowda-7b7306116/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akshathaappajigowda/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Akshathaappajigowda",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Visvesvaraya Technological University",
+        "degree": "Bachelor's Degree, Electronics and communication",
+        "graduated": "June 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance webdeveloper",
+        "title": "JavaScript/HTML5/CSS3",
+        "years": "May 2020 - Present ",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon clone built with NodeJS",
+        "category": "Amazon Clone built with NodeJS",
+        "image": "amazon.png",
+        "url": "https://clone-63238.firebaseapp.com/"
+      },
+      {
+        "title": "Covid-19 tracker",
+        "category": "Covid-19 tracker built with ReactJS",
+        "image": "covid.png",
+        "url": "https://covid-19-tracker-f1ef4.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
